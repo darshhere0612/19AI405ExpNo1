@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NALINIPRIYA G </h3>
-<h3>Register Number/Staff Id: TSIT031</h3>
+<h3>Name: DARSHAN J </h3>
+<h3>Register Number:212224020008</h3>
 
 
 <h3>AIM:</h3>
@@ -40,3 +40,19 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+OUTPUT
+Medicine Prescribing Agent Simulation Started
+
+Checking Room 1... Patient temperature: 97.8°F
+No treatment needed in Room 1.
+
+Moving from Room 1 to Room 2...
+Checking Room 2... Patient temperature: 98.1°F
+No treatment needed in Room 2.
+
+Simulation Complete!
+Final Performance Score: -1
+Environment State: {'Room 1': 97.8, 'Room 2': 98.1}
+RESULT 
+Thus the AI agent is developed successfully
+
